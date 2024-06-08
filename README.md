@@ -1,5 +1,7 @@
 ## Student Analysis ML Project
 
-'''
-pip install -r requirements.txt  
-'''
+## Install the requirements
+
+```
+pip install -r requirements.txt
+```
