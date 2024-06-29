@@ -1,5 +1,4 @@
-## Student Analysis ML Project
-
+## ML Project Template
 ## Install the requirements
 
 ```
